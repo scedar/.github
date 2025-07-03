@@ -48,8 +48,5 @@ Our team is committed to:
 * Continuous learning and professional development
 * Rigorous quality standards
 * Collaborative innovation
-* Formal recognition of all contributions through acknowledgment and feedback
 
 ---
-
-We invite you to collaborate with us in delivering robust and innovative solutions.
