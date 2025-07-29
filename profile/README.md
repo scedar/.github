@@ -41,12 +41,4 @@ Our focus is on cloud‑native, secure architectures designed to scale with orga
    * Reference related issues where applicable
 ---
 
-## Organizational Culture
-
-Our team is committed to:
-
-* Continuous learning and professional development
-* Rigorous quality standards
-* Collaborative innovation
-
 ---
